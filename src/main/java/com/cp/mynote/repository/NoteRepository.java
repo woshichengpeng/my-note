@@ -1,6 +1,6 @@
 package com.cp.mynote.repository;
 
-import com.cp.mynote.pojo.Note;
+import com.cp.mynote.pojo.noteInfo.Note;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**

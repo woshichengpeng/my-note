@@ -1,6 +1,6 @@
 package com.cp.mynote;
 
-import com.cp.mynote.pojo.Note;
+import com.cp.mynote.pojo.noteInfo.Note;
 import com.cp.mynote.pojo.User;
 import com.cp.mynote.repository.NoteRepository;
 import com.cp.mynote.repository.UserRepository;
